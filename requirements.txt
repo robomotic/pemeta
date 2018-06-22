@@ -1,0 +1,4 @@
+capstone==3.0.5
+pefile==2017.9.3
+Pillow==4.3.0
+
